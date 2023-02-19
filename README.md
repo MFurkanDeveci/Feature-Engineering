@@ -3,7 +3,7 @@
 Business Problem: A machine learning model will be developed that can predict customers who will leave the company. 
 Before developing the model, necessary data analysis and feature engineering steps will be performed.
 
-Veri Seti Hikayesi
+Data Set Story
 
 CustomerId
 
